@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>我的旅遊日記</title>
+        <link>http://localhost:1313/mytravels/</link>
+        <description>Recent content on 我的旅遊日記</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/mytravels/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>東京五日遊：淺草寺大冒險</title>
+        <link>http://localhost:1313/mytravels/post/2025-okinawa/</link>
+        <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/mytravels/post/2025-okinawa/</guid>
+        <description>&lt;img src="http://localhost:1313/mytravels/post/2025-okinawa/cover.jpg" alt="Featured image of post 東京五日遊：淺草寺大冒險" /&gt;&lt;p&gt;這是我的第一篇遊記！&lt;/p&gt;
+&lt;h2 id=&#34;第一站雷門&#34;&gt;第一站：雷門
+&lt;/h2&gt;&lt;p&gt;人超級多，但是燈籠真的很壯觀。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mytravels/post/2025-okinawa/view.jpg&#34;
+	width=&#34;1280&#34;
+	height=&#34;591&#34;
+	srcset=&#34;http://localhost:1313/mytravels/post/2025-okinawa/view_hu_9ff5f154ad0fd489.jpg 480w, http://localhost:1313/mytravels/post/2025-okinawa/view_hu_545d9faf5e285228.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;雷門風景&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;216&#34;
+		data-flex-basis=&#34;519px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;我覺得這裡的氛圍&amp;hellip; (繼續寫你的遊記)&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

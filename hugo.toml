@@ -1,0 +1,42 @@
+publishDir = "docs"
+baseURL = 'https://你的帳號.github.io/mytravels/'
+languageCode = 'zh-tw'
+title = '我的旅遊日記'
+theme = 'hugo-theme-stack'
+
+# 這是主要設定區
+[params]
+    mainSections = ["post"] # 告訴主題，遊記放在 post 資料夾
+
+    # 側邊欄設定 (這裡原本寫錯了，修正為完整格式)
+    [params.sidebar]
+        emoji = "✈️"
+        subtitle = "愛旅遊的工程師"
+
+        # 大頭貼設定 (Stack 主題要求這種格式)
+        [params.sidebar.avatar]
+            enabled = true
+            local = true
+            src = "img/avatar.jpg" # 請注意：圖片要放在 assets/img/ 底下
+
+    # 頁尾設定
+    [params.footer]
+        since = 2025
+
+# 選單設定
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "首頁"
+        url = "/"
+        weight = 1
+        [menu.main.params]
+            icon = "home"
+
+    [[menu.main]]
+        identifier = "archives"
+        name = "歸檔"
+        url = "/archives/"
+        weight = 2
+        [menu.main.params]
+            icon = "archive"
